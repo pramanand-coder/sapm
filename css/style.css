@@ -1,0 +1,91 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%);
+    color: #4b0082;
+    margin: 0;
+    padding: 20px;
+}
+.letter-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+h1 {
+    text-align: center;
+    color: #ff6f91;
+}
+#p1 {
+    line-height: 1.6;
+}
+.rectangle1{
+    top:500px;
+    width:1500px;;
+    height:1000px;
+}
+#Jyoti1{
+    position:absolute;
+    top:500px;
+    left:10px;
+    width:750px;
+    height:300px;
+}
+#Jyoti2{
+    position:absolute;
+    top:500px;
+    right:0px;
+    left:750px;
+    width:50%;
+    height:300px;
+}
+#Jyoti3{
+    position:absolute;
+    left:10px;
+    top:805px;
+    width:450px;
+    height:400px;
+}
+#Jyoti4{
+    position:absolute;
+    top:805px;
+    left:450px;
+    width:450px;
+    height:400px;
+}
+#Jyoti5{
+    position:absolute;
+    top:805px;
+    right:0px;
+    left:900px;
+    width:600px;
+    height:400px;
+}
+#Jyoti6{
+    position:absolute;
+    top:1210px;
+    left:10px;
+    width:500px;
+    height:500px;
+}
+#pro{
+    position:absolute;
+    top:1210px;
+    right:0px;
+    left:510px;
+    width:990px;
+    height:500px;
+}
+#love{
+    height: 200px; 
+    font-weight: 700; /* Make the text bold */
+    font-size: 30px; /* Adjust font size for better visibility */
+    line-height: 200px; /* Vertically center the text */
+}
+.rect{
+    position:absolute;
+    top:1720px;
+    width:1500px;
+    height:200px;
+}
