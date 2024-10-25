@@ -54,3 +54,122 @@
     left:0px;
     font-size:30px;
 }
+.rect3{
+    left:0px;
+    width:1480px;
+    top:400px;
+    height:570px;
+    padding:20px;
+    background-color:aquamarine;
+}
+#mem{
+    position:absolute;
+    top:480px;
+    left:650px;
+    color:red;
+}
+#jyoti1{
+    position:absolute;
+    top:550px;
+    left:0px;
+    width:300px;
+    height:300px;
+}
+#jyoti2{
+    position:absolute;
+    top:550px;
+    left:300px;
+    width:300px;
+    height:300px;
+}
+#jyoti3{
+    position:absolute;
+    top:550px;
+    left:600px;
+    width:300px;
+    height:300px;
+}
+#jyoti4{
+    position:absolute;
+    top:550px;
+    left:900px;
+    width:300px;
+    height:300px;
+}
+#jyoti5{
+    position:absolute;
+    top:550px;
+    left:1200px;
+    width:320px;
+    height:300px;
+}
+#jyoti6{
+    position:absolute;
+    top:850px;
+    left:1200px;
+    width:320px;
+    height:300px;
+}
+#pro{
+    position:absolute;
+    top:850px;
+    left:700px;
+    width:500px;
+    height:300px;
+}
+.rect4{
+    position:absolute;
+    left:0px;
+    top:850px;
+    width:700px;
+    height:300px;
+    background-color:black;
+}
+#s1{
+    position:absolute;
+    left:20px;
+    top:10px;
+    width:800px;
+    height:300px;
+    color:white;
+    font-size:25px;
+}
+#s2{
+    position:absolute;
+    left:20px;
+    top:60px;
+    width:800px;
+    height:300px;
+    color:white;
+    font-size:25px;
+}
+#s3{
+    position:absolute;
+    left:20px;
+    top:110px;
+    width:800px;
+    height:300px;
+    color:white;
+    font-size:25px;
+}
+#s4{
+    position:absolute;
+    left:20px;
+    top:160px;
+    width:800px;
+    height:300px;
+    color:white;
+    font-size:25px;
+}
+#foot{
+    position:absolute;
+    top:1150px;
+    color:blueviolet;
+    font-weight:500;
+}
+#f2{
+    top:100px;
+    width:1480px;
+    left:0px;
+    font-size:30px;
+}
